@@ -12,32 +12,20 @@ You would be required to work remotely. Collaboration with others involve text c
 Required:
 
 A code portfolio demonstrating your skills and knowledge in programming
-
-Current knowledge on the latest industry trends in the web/mobile application stacks
-
-Web application architecture, object oriented design, database design and messaging design (REST API), web database technologies.
-
-Willing and comfortable to work in the frontend, backend, deployment, operations, everything
-
-Familiarity with Agile/XP programming styles: insists on fast feedback and continuous improvement; loves to write tests, etc.
-
-Writes clear and understandable code
-
-Fast-learner with a willingness to learn on the job
+- Current knowledge on the latest industry trends in the web/mobile application stacks
+- Web application architecture, object oriented design, database design and messaging design (REST API), web database technologies.
+- Willing and comfortable to work in the frontend, backend, deployment, operations, everything
+- Familiarity with Agile/XP programming styles: insists on fast feedback and continuous improvement; loves to write tests, etc.
+- Writes clear and understandable code
+- Fast-learner with a willingness to learn on the job
 
 Desirable but are not essential:
-
-Functional programming
-
-Devops skills (automation of all aspects of build/testing/deployment process)
-
-Use of cloud services
-
-Docker containers
-
-Monitoring of application health
-
-A qualification in computer science, software engineering or related degree is desired however not essential.
+- Functional programming
+- Devops skills (automation of all aspects of build/testing/deployment process)
+- Use of cloud services
+- Docker containers
+- Monitoring of application health
+- A qualification in computer science, software engineering or related degree is desired however not essential.
 
 The company is looking for an individual that would fit well with the company and the companies culture, this does not necessarily mean experience App developers will only be considered. The company is willing to train the right individual for the position. The company values diversity and encourage all individuals to apply.
 
